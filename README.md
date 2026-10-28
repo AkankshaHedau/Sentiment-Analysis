@@ -1,4 +1,4 @@
-# IMDb Movie Sentiment Analysis
+# IMDB Movie Sentiment Analysis
 
 ## 📌 Project Overview
 
