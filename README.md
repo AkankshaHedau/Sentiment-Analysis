@@ -52,6 +52,12 @@ Load the IMDb dataset containing movie names, reviews, and ratings.
 ### 4. Word Cloud Visualization
 Generate separate word clouds to explore frequently occurring words in reviews with ratings of 7 or higher and ratings of 4 or lower.
 
+## Dataset
+
+The IMDb dataset is available here:
+
+[Download IMDb Dataset](https://drive.google.com/file/d/1xT_E7Zk1-M-14cv3V_W2EZyzbl1tcYzv/view?usp=sharing )
+
 ## 📊 Key Analysis
 
 The notebook explores movie review characteristics, rating distributions, and differences in frequently occurring words between higher-rated and lower-rated reviews.
@@ -94,6 +100,8 @@ The notebook explores movie review characteristics, rating distributions, and di
 - Convert review text into numerical features using CountVectorizer or TF-IDF.
 - Evaluate model performance using accuracy, precision, recall, and F1-score.
 - Improve text preprocessing and compare different classification algorithms.
+
+
 
 ## 👩‍💻 Author
 
