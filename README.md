@@ -28,7 +28,7 @@ This project explores IMDb movie reviews using Python, Natural Language Processi
 imdb-movie-sentiment-analysis/
 │
 ├── sentiment analysis.ipynb
-├── IMDB-Dataset.xlsx
+├── IMDB-Dataset.csv
 └── README.md
 ```
 
